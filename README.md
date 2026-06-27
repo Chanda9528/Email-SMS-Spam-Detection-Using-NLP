@@ -125,10 +125,3 @@ The system:
 
 ---
 
-## 👩‍💻 Author
-
-**Chanda Mishra**
-
-B.Tech Computer Science Engineering
-
-Python | Machine Learning | NLP | Data Science
